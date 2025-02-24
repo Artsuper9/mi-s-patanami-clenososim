@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+    margin: 0;
+}
+
+.buton {
+    padding: 10px20px;
+    font-size: 16px;
+    border: none;    
+    background-color: green;
+    color: white;    
+    cursor: pointer;
+    border-radius: 5px;
+}
